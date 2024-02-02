@@ -9,9 +9,11 @@
 }
 
 body {
+    color: #fff;
     display: flex;
     padding: 0 10px;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background: #8a1dac;
 }
